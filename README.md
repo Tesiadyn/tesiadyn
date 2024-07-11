@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![amemifta@gmail.com](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:amemifta@gmail.com)
+[![marcehsu.dev@gmail.com](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcehsu.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcehsu/)
 </div>
 
