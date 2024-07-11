@@ -4,7 +4,7 @@
   <h3 align="center"> A passionate Front-end developer with design background 🧑‍🎨 </h3>
 
 
-* 🔭 I’m currently avalible for a **full-time job** 
+* 🔭 I’m currently available for a **full-time job** 
 * 🌱 I’m currently learning about **Next.js, Vue, and more..**
 * 💬 Ask me about **React, Javascript, Typescript, D3.js**
 * 🖊️ I have a blog where I document my technical learning on [My Blog](https://tesiadyn.github.io/blog/)
