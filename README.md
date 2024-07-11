@@ -8,7 +8,7 @@
 * 🌱 I’m currently learning about **Next.js, Vue, and more..**
 * 💬 Ask me about **React, Javascript, Typescript, D3.js**
 * 🖊️ I have a blog where I document my technical learning on [My Blog](https://tesiadyn.github.io/blog/)
-* 😄 Projects are available at [My repositories](https://github.com/Tesiadyn?tab=repositories)
+* 😄 Projects are available at [My Github repositories](https://github.com/Tesiadyn?tab=repositories)
 
 <h2 align="center">:handshake: Contact Me </h2>
 
